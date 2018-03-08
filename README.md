@@ -1,2 +1,1 @@
-# fcc-requestHeader-parser
-a simple ip, lang and broswer getter
+# Backend Challenges boilerplate - package.json
